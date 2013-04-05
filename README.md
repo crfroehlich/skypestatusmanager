@@ -1,0 +1,4 @@
+skypestatusmanager
+==================
+
+Skype Status Manager
